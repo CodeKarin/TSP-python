@@ -1,2 +1,2 @@
 # TSP-python
-Traveling salesmane problem in python. 
+Traveling salesperson problem  - in python. 
